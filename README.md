@@ -36,15 +36,11 @@ $ npm install
 $ npm android
 ```
 
----
-
-## Autor
+### Autor
 
  <img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/5288651?s=400&u=d1af6a4fecad96cfd93375e0913e165cef778b92&v=4" width="100px;" alt=""/>
  <br />
  <sub><b>Vinícius Moreira</b></sub>
- <br />
- <br />
 
 
 ## 📝 Licença
