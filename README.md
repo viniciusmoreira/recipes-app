@@ -3,7 +3,7 @@
 <p align="center">Aplicação desenvolvida para reforçar conhecimentos sobre styled-components.</p>
 
 <h1 align="center">
-  <img alt="Recipes App" title="#NextLevelWeek" src="./public/RecipesApp.gif" />
+  <img alt="Recipes App" title="Recipes App" src="./public/RecipesApp.gif" />
 </h1>
 
 ### 🛠 Tecnologias
